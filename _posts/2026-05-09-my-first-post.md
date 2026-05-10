@@ -1,8 +1,8 @@
 ---
 title: 我的第一篇博客：测试我的博客
-date: 2026-05-09 12:00:00 +0800
+date: 2026-05-10 11:46:00
 categories: [第一次测试]
-tags: [linux, mcu, 机器学习]
+tags: [日常记录]
 ---
 
 ## 大家好，这是我的新博客！
@@ -18,3 +18,4 @@ int main() {
     printf("Hello, World! 欢迎来到我的博客。\n");
     return 0;
 }
+```
